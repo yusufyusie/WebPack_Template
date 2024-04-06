@@ -57,7 +57,7 @@ is the library website that allows users to add and remove books from the list. 
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://geekyhacks.github.io/AwesomeBook/)
+- [Live Demo Link](yusufyusie.github.io/Leaderboard/dist/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -81,13 +81,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/GeekyHacks/AwesomeBook.git
+- git clone https://github.com/yusufyusie/Leaderboard.git
 
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/GeekyHacks/AwesomeBook.git
+  git clone https://github.com/yusufyusie/Leaderboard.git
 
 ```
 
@@ -109,12 +109,12 @@ Must-Install-Project-with-the-Following-Programmes:
 👤 **GeekyHacks**
     **Bhekisile Jozi**
 
-- GitHub: [Geekyhacks](https://github.com/GeekyHacks)
-- Twitter: [Geekydart](https://twitter.com/GeekyDart)
-- LinkedIn: [Abdullah Nasser](https://www.linkedin.com/in/abdullah-nasser-711625268/)
+- GitHub: [yusufyusie](https://github.com/yusufyusie)
+- Twitter: [yusufyusie](https://twitter.com/yusufyusiee)
+- LinkedIn: [Yesuf Fenta](https://www.linkedin.com/in/yusufyusie/)
 
-- GitHub: [@githubhandle](https://github.com/bhekisile)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/bhekisile-jozi-b9823369/)
+- GitHub: [@githubhandle](https://github.com/yusufyusie)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yusufyusie/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
@@ -128,7 +128,7 @@ Must-Install-Project-with-the-Following-Programmes:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/GeekyHacks/AwesomeBook/issues).
+Feel free to check the [issues page](https://github.com/yusufyusie/Leaderboard/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
